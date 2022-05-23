@@ -435,10 +435,10 @@ Organización del Trabajo:
   poco a lo largo del -_bootcamp_.
 * [Blog: cómo funciona el algoritmo de Luhn](http://www.quobit.mx/asi-funciona-el-algoritmo-de-luhn-para-generar-numeros-de-tarjetas-de-credito.html).
 
-PROYECTO CARD VALIDATION
+# PROYECTO CARD VALIDATION
 ## Índice
-  * [2. Resumen del proyecto](#2-resumen-del-proyecto)
-  * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
+  * [1. Resumen del proyecto](#1-resumen)
+  * [2. Investigación UX](#2-investigación-ux)
   * [4. Consideraciones generales](#4-consideraciones-generales)
   * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
   * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
@@ -447,7 +447,7 @@ PROYECTO CARD VALIDATION
 El proyecto "Card Validation" en una tienda virtual de Barbies coleccionables, que consta de funciones como la compra de dichos objetos, para ello tiene que validar su Tarjeta de Crédito con el algoritmo de Lunh y ademas imprimir en pantalla el numero de su tarjeta encriptado en #.
 ## 2. Investigación UX
   * i. Usuario
-      Laura es una señora coleccionista de muñecas Barbie, que desde niña le gusto jugar con muñecas, sus padres siempre le regalaban todo tipo de muñecas Barbie, las cuales eran su única compañía, empezó a guardarlas en su estante y sin darse cuenta al pasar los años tenía una gran cantidad de ellas, escucho que la muñeca Barbie cuenta con una gran gama de muñecas que se crearon a través de los años, no sabe donde comprarlas porque piensa que la pueden estafar, como nunca compro online, pero sus hijos la animaron y ella está entusiasmada de adquirir dicho producto.
+         Laura es una señora coleccionista de muñecas Barbie, que desde niña le gusto jugar con muñecas, sus padres siempre le regalaban todo tipo de muñecas Barbie, las cuales eran su única compañía, empezó a guardarlas en su estante y sin darse cuenta al pasar los años tenía una gran cantidad de ellas, escucho que la muñeca Barbie cuenta con una gran gama de muñecas que se crearon a través de los años, no sabe donde comprarlas porque piensa que la pueden estafar, como nunca compro online, pero sus hijos la animaron y ella está entusiasmada de adquirir dicho producto.
 
    * ii. Objetivos
       * Crear un atienda virtual donde se puede visualizar muñecas Barbie.
@@ -458,10 +458,10 @@ El proyecto "Card Validation" en una tienda virtual de Barbies coleccionables, q
       * Realizar la compra.
 
   * iii. Finalidad
-   * Reduce el tiempo de busqueda.
-   * Escoger el producto que quiera con un solo click.
-   * Reduce riesgos de fraude.
-   * Reduce costos operativos.
+      * Reduce el tiempo de busqueda.
+      * Escoger el producto que quiera con un solo click.
+      * Reduce riesgos de fraude.
+      * Reduce costos operativos.
 
   * iv. Prototipo
     * 
