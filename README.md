@@ -434,3 +434,18 @@ Organización del Trabajo:
   esperamos que hagas todo eso desde este proyecto. Iremos profundizando poco a
   poco a lo largo del -_bootcamp_.
 * [Blog: cómo funciona el algoritmo de Luhn](http://www.quobit.mx/asi-funciona-el-algoritmo-de-luhn-para-generar-numeros-de-tarjetas-de-credito.html).
+
+PROYECTO CARD VALIDATION
+## Índice
+  * [2. Resumen del proyecto](#2-resumen-del-proyecto)
+  * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
+  * [4. Consideraciones generales](#4-consideraciones-generales)
+  * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
+  * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
+
+## 1. Resumen 
+El proyecto "Card Validation" en una tienda virtual de Barbies coleccionables, que consta de funciones como la compra de dichos objetos, para ello tiene que validar su Tarjeta de Crédito con el algoritmo de Lunh y ademas imprimir en pantalla el numero de su tarjeta encriptado en #.
+## 2. Investigación UX
+  i. Usuario
+    Laura es una señora coleccionista de muñecas Barbie que desde niña le gusto jugar con muñecas , sus padres siempre le regalaban todo tipo de muñecas Barbie las cuales eran su única compañía, empezó a guardarlas en su estante y sin darse cuenta al pasar los años ya tenia una gran cantidad de ellas,  escucho que la muñeca Barbie cuenta con una gran gama de muñecas que crearon a travez de los años, no sabe donde comprarla ya que piensa que la pueden estafar ya que tiene miedo comprar en internet pero sus hijos la animaron y ella esta entusiasmada de adquirir dicho producto.
+
