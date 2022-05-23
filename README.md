@@ -446,6 +446,26 @@ PROYECTO CARD VALIDATION
 ## 1. Resumen 
 El proyecto "Card Validation" en una tienda virtual de Barbies coleccionables, que consta de funciones como la compra de dichos objetos, para ello tiene que validar su Tarjeta de Crédito con el algoritmo de Lunh y ademas imprimir en pantalla el numero de su tarjeta encriptado en #.
 ## 2. Investigación UX
-  i. Usuario
-    Laura es una señora coleccionista de muñecas Barbie que desde niña le gusto jugar con muñecas , sus padres siempre le regalaban todo tipo de muñecas Barbie las cuales eran su única compañía, empezó a guardarlas en su estante y sin darse cuenta al pasar los años ya tenia una gran cantidad de ellas,  escucho que la muñeca Barbie cuenta con una gran gama de muñecas que crearon a travez de los años, no sabe donde comprarla ya que piensa que la pueden estafar ya que tiene miedo comprar en internet pero sus hijos la animaron y ella esta entusiasmada de adquirir dicho producto.
+  * i. Usuario
+      Laura es una señora coleccionista de muñecas Barbie, que desde niña le gusto jugar con muñecas, sus padres siempre le regalaban todo tipo de muñecas Barbie, las cuales eran su única compañía, empezó a guardarlas en su estante y sin darse cuenta al pasar los años tenía una gran cantidad de ellas, escucho que la muñeca Barbie cuenta con una gran gama de muñecas que se crearon a través de los años, no sabe donde comprarlas porque piensa que la pueden estafar, como nunca compro online, pero sus hijos la animaron y ella está entusiasmada de adquirir dicho producto.
+
+   * ii. Objetivos
+      * Crear un atienda virtual donde se puede visualizar muñecas Barbie.
+      * Ver el precio y nombre de las muñecas.
+      * Escribir datos personales para adquirir la compra.
+      * Poner mi número de tarjeta de crédito para comprobar la validez.
+      * Encriptar los primeros números de la tarjeta.
+      * Realizar la compra.
+
+  * iii. Finalidad
+   * Reduce el tiempo de busqueda.
+   * Escoger el producto que quiera con un solo click.
+   * Reduce riesgos de fraude.
+   * Reduce costos operativos.
+
+  * iv. Prototipo
+    * 
+  * v. Feddback
+  
+
 
