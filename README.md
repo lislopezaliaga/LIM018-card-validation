@@ -438,13 +438,13 @@ Organización del Trabajo:
 ## Índice
   * [1. Resumen del proyecto](#1-resumen)
   * [2. Prototipo](#2-prototipo)
-  * [3. Investigación UX](#2-investigación-ux)
+  * [3. Investigación UX](#3-investigación-ux)
  
 
 ## 1. Resumen 
 El proyecto "Card Validation" en una tienda virtual de Barbies coleccionables, que consta de funciones como la compra de dichos objetos, para ello tiene que validar su Tarjeta de Crédito con el algoritmo de Lunh y ademas imprimir en pantalla el numero de su tarjeta encriptado en #.
 ## 2. Prototipo
-[Link](https://www.figma.com/file/UWOI57LrkPnaP8prlGTT0g/Prototyping-in-Figma?node-id=0%3A1)
+Creación de mi prototipo [Link](https://www.figma.com/file/UWOI57LrkPnaP8prlGTT0g/Prototyping-in-Figma?node-id=0%3A1)
 
 ## 3. Investigación UX
   ### i. Usuario
@@ -466,12 +466,12 @@ El proyecto "Card Validation" en una tienda virtual de Barbies coleccionables, q
       * Reduce costos operativos.
 
   ### iv. Prototipo
-  [Link](https://www.figma.com/file/UWOI57LrkPnaP8prlGTT0g/Prototyping-in-Figma?node-id=0%3A1)
+  Para ver mi prototipo lo puedes ver en el siguiente[Link](https://www.figma.com/file/UWOI57LrkPnaP8prlGTT0g/Prototyping-in-Figma?node-id=0%3A1)
   ### v. Feedback
   Mis compañeras me dijeron que se veia bien en algunas partes pero en otras hay que complementarlo con CSS evitando un choque visual y haciendo lucir confiable la app.
 
   ### vi. Imagen final
-  [Link](https://www.figma.com/file/UWOI57LrkPnaP8prlGTT0g/Prototyping-in-Figma?node-id=0%3A1)
+  Mi proyecto quedo así [Link](https://www.figma.com/file/UWOI57LrkPnaP8prlGTT0g/Prototyping-in-Figma?node-id=0%3A1)
 
   
   
