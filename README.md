@@ -449,7 +449,7 @@ El proyecto "Card Validation" en una tienda virtual de Barbies coleccionables, q
 ## 3. Investigación UX
   ### i. Usuario
 
-    Laura es una señora coleccionista de muñecas Barbie, que desde niña le gusto jugar con muñecas, sus padres siempre le regalaban todo tipo de muñecas Barbie, las cuales eran su única compañía, empezó a guardarlas en su estante y sin darse cuenta al pasar los años tenía una gran cantidad de ellas, escucho que la muñeca Barbie cuenta con una gran gama de muñecas que se crearon a través de los años, no sabe donde comprarlas porque piensa que la pueden estafar, como nunca compro online, pero sus hijos la animaron y ella está entusiasmada de adquirir dicho producto.
+  Laura es una señora coleccionista de muñecas Barbie, que desde niña le gusto jugar con muñecas, sus padres siempre le regalaban todo tipo de muñecas Barbie, las cuales eran su única compañía, empezó a guardarlas en su estante y sin darse cuenta al pasar los años tenía una gran cantidad de ellas, escucho que la muñeca Barbie cuenta con una gran gama de muñecas que se crearon a través de los años, no sabe donde comprarlas porque piensa que la pueden estafar, como nunca compro online, pero sus hijos la animaron y ella está entusiasmada de adquirir dicho producto.
 
    ### ii. Objetivos
       * Crear un atienda virtual donde se puede visualizar muñecas Barbie.
@@ -468,7 +468,7 @@ El proyecto "Card Validation" en una tienda virtual de Barbies coleccionables, q
   ### iv. Prototipo
   [Link](https://www.figma.com/file/UWOI57LrkPnaP8prlGTT0g/Prototyping-in-Figma?node-id=0%3A1)
   ### v. Feedback
-        Mis compañeras me dijeron que se veia bien en algunas partes pero en otras hay que complementarlo con CSS evitando un choque visual y haciendo lucir confiable la app.
+  Mis compañeras me dijeron que se veia bien en algunas partes pero en otras hay que complementarlo con CSS evitando un choque visual y haciendo lucir confiable la app.
 
   ### vi. Imagen final
   [Link](https://www.figma.com/file/UWOI57LrkPnaP8prlGTT0g/Prototyping-in-Figma?node-id=0%3A1)
