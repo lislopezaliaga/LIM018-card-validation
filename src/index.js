@@ -1,6 +1,6 @@
 import validator from './validator.js';
 
-const buttonBarbies=document.querySelector("#buttonBarbie");
+let buttonBarbies=document.querySelector("#buttonBarbie");
 buttonBarbies.addEventListener("click",function(){
         document.getElementById("productBarbie").style.display = "flex";
         document.getElementById("productKen").style.display = "none";
@@ -23,7 +23,7 @@ buttonAccesorios.addEventListener("click",function(){
       
 });
 
-var counterVal = 0;
+let counterVal = 0;
 
 
 const buttonAdd=document.querySelectorAll('.button-add');

@@ -157,25 +157,6 @@ p{
     margin: 20px;
 }
 
-.button-checkout{
-    border:none;
-    font-size: 16px;
-    text-align: center;
-    border-radius: 8px;
-    padding: 10px 25px;
-    background-color: white;
-    color: black;
-    border: 2px solid lightseagreen;
-    transition: 0.4s;
-    position: absolute;
-    right: 10px;
-    bottom: 3px;
-
-}
-.button-checkout:hover{
-    background-color: lightseagreen;
-    color: white;
-    }
 .shopShop{
     
     width: 221px;
@@ -189,8 +170,6 @@ input[type='image'] {
     height: 70px;
       
 }
-
-
 
 .page-content{
     display:flex;
