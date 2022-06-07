@@ -3,7 +3,9 @@ import validator from './validator.js';
 let buttonBarbies=document.querySelector("#buttonBarbie");
 buttonBarbies.addEventListener("click",function(){
         document.getElementById("productBarbie").style.display = "flex";
+
         document.getElementById("productKen").style.display = "none";
+
         document.getElementById("productAccesorio").style.display = "none";
       
 });
@@ -17,6 +19,7 @@ buttonKens.addEventListener("click",function(){
 });
 const buttonAccesorios=document.querySelector("#buttonAccesorio");
 buttonAccesorios.addEventListener("click",function(){
+
      document.getElementById("productBarbie").style.display = "none";
         document.getElementById("productKen").style.display = "none";
         document.getElementById("productAccesorio").style.display = "flex";
@@ -39,6 +42,7 @@ buttonAdd.forEach((addToCardButton) =>{
 
 const get=document.querySelector("#get");
 get.addEventListener("click",function(){
+
     if(counterVal>0){
         document.getElementById("textFreeShipping").style.display = "none";
         document.getElementById("notice").style.display = "none";
@@ -54,11 +58,8 @@ get.addEventListener("click",function(){
 const valid=document.querySelector("#validar");
 valid.addEventListener("click",function(){
     
-    
-
-    
-
     let creditCardNumber=document.getElementById("cardNumber").value;
+    
     let isValidFirst = validator.isValid(creditCardNumber);
     let maskify=validator.maskify(creditCardNumber);
 
